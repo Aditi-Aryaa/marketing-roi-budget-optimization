@@ -74,6 +74,3 @@ Test incremental budget changes through controlled experiments
 
 Extend analysis to multi-touch attribution models
 
-Tableau Dashboard
-
-(Add your Tableau Public link here)
